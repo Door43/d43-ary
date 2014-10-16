@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ary:home|Door43 (ary)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ary|d43-ary repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ary/archive/master.zip|d43-ary.zip]]
+
+**Recent Changes**
+{{changes>ns = ary}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ary|Ethnologue data]]
+
